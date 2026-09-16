@@ -1,16 +1,40 @@
-## Hi there 👋
+# Sanjeev Narang
 
-<!--
-**Sanjeev-Narang/Sanjeev-Narang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer • Android Developer • Backend Builder
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+
+I'm a software engineer who likes building things that actually work in the real world — solid Android apps on the front, clean APIs on the back.
+
+Currently into:
+
+- Android Development
+- Django REST Framework
+- Postgres
+- Docker
+- Golang
+
+> *"Keep it simple, ship it clean, don't break prod."*
+
+---
+
+### Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,python,django,postgres,docker,go,git,github,linux)](https://skillicons.dev)
+
+---
+
+### Current Focus
+
+- Building polished Android apps
+- Designing reliable backends with DRF + Postgres
+- Dockerizing everything for sanity
+- Getting better at Go, one goroutine at a time
+
+---
+
+### Connect
+
+- GitHub: https://github.com/Sanjeev-Narang
