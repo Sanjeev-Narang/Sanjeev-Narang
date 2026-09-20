@@ -22,7 +22,7 @@ Currently into:
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,python,django,postgres,docker,go,git,github,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,python,django,postgres,docker,go,git,github,linux)](https://skillicons.dev)
 
 ---
 
