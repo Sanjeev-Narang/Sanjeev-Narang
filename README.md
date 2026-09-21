@@ -33,8 +33,3 @@ Currently into:
 - Dockerizing everything for sanity
 - Getting better at Go, one goroutine at a time
 
----
-
-### Connect
-
-- GitHub: https://github.com/Sanjeev-Narang
